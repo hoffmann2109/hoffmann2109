@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{hoffmann2109}/count.svg" alt="Visitor's Count" />
+</div>
 
 <!--
 **hoffmann2109/hoffmann2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
