@@ -9,8 +9,7 @@
 
 ### A student passionate about Software Engineering.
 - 🎓 Wirtschaftsinformatik student @ Universität Klagenfurt  
-- 💻 Java enthusiast | Also exploring C  
-- 🛠️ Currently collaborating on a team to build a multiplayer Monopoly game  
+- 💻 Java enthusiast | Also exploring C   
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hoffmann-thomas/)
 
 ## 🛠️ Languages and Tools
