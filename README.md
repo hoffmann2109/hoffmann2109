@@ -25,6 +25,10 @@
 <hr>
 
 ## ⚡️ Stats
+<p >
+Total commits in the last year:
+<img src="https://raw.githubusercontent.com/hoffmann2109/hoffmann2109/main/metrics.svg" alt="GitHub metrics showing commits per year" width="100%" />
+</p>
 
 <br>
 
