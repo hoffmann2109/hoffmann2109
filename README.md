@@ -3,8 +3,8 @@
 </h1>
 
 ### A student passionate about Software Engineering.
-- 🎓 Wirtschaftsinformatik student @ Universität Klagenfurt  
-- 💻 Java enthusiast | Also exploring C#   
+- 🎓 Master's Student in Information Management (Wirtschaftsinformatik) @ Universität Klagenfurt  
+- 💻 Mainly coding in C# and Java  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hoffmann-thomas/)
 
 ## 🛠️ Languages and Tools
