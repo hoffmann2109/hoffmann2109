@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,bash,c,html,css,ts" />
   
-  <img src="https://skillicons.dev/icons?i=linux,arch,arduino,docker,git,postgresql,latex,mint,obsidian,spring,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,arduino,docker,git,postgresql,latex,mint,obsidian,spring,mongodb" />
 </p>
 
 <hr>
