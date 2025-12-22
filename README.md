@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,bash" />
+    
   <img src="https://skillicons.dev/icons?i=linux,docker,git,postgresql,mongodb,firebase,css,bootstrap,gtk" />
 </p>
 
