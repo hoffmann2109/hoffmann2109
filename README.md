@@ -13,9 +13,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,bash,html,css,ts" />
-  
-  <img src="https://skillicons.dev/icons?i=linux,arch,arduino,docker,git,postgresql,latex,mint,obsidian,spring,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,postgresql,mongodb,firebase,css,bootstrap,gtk" />
 </p>
 
 <hr>
