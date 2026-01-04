@@ -26,8 +26,6 @@
 <div align="center">
   <img src="./profile/stats.svg" alt="Stats" height="150" />
   <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
-  <br>
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned" height="120" />
 </div>
 
 <hr>
