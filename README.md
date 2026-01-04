@@ -24,8 +24,9 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hoffmann2109&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Thomas' GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=hoffmann2109&theme=transparent&cache_seconds=30&layout=donut&hide=css,makefile,cmake&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Thomas' Most Used Languages" />
+    ![Stats](./profile/stats.svg)
+    ![Top Languages](./profile/top-langs.svg)
+    ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </div>
 
 <hr>
