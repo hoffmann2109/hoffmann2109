@@ -5,7 +5,6 @@
 ### A student passionate about Software Engineering.
 - 🎓 Master's Student in Information Management (Wirtschaftsinformatik) @ Universität Klagenfurt  
 - 💻 Mainly coding in C# and Java
-- 💻 Currently exploring React & TypeScript
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hoffmann-thomas/)
 
 ## 🛠️ Languages and Tools
