@@ -4,7 +4,7 @@
 
 ### A student passionate about Software Engineering.
 - 🎓 Master's Student in Information Management (Wirtschaftsinformatik) @ Universität Klagenfurt  
-- 💻 Mainly coding in C# and Java
+- 💻 Mainly coding in C# and Python
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hoffmann-thomas/)
 
 ## 🛠️ Languages and Tools
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,cs,dotnet,react,ts,bash" />
     
   <img src="https://skillicons.dev/icons?i=linux,docker,git,postgresql,mongodb,firebase,css,bootstrap,gtk" />
 </p>
